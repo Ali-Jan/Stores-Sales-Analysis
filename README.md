@@ -21,7 +21,7 @@ Products with **< $100** price has the maximum number of orders with **6101** or
 
 ## Time Series Sales Analysis
 
-![Image](https://github.com/user-attachments/assets/23e1a350-65d3-4370-9547-558e8f134f19)
+![Image](https://github.com/user-attachments/assets/5c40863f-b739-4331-adfc-bb0bd0b7439c)
 
 **November**, **September**, and **March** stands at top with total sales of **$350 K**, **$300 K**, and **$190 K**
 

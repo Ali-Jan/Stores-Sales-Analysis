@@ -13,7 +13,7 @@
 
 Region-wise **West Region** has performed best with a Total Sales of **$710 Thousand** while **South Region** needs to work hard with the least sales of **$389 K**.
 
-**Stanard Class** shipping mode is the most common shipping mode with **5859** out of 9800 shipments and **Same Day** shipping mode being the least common used with **538** out of 9800 shipments.  
+**Standard Class** shipping mode is the most common shipping mode with **5859** out of 9800 shipments and **Same Day** shipping mode being the least common used with **538** out of 9800 shipments.  
 
 Products with **< $100** price have the maximum number of orders with **6101** orders. Further, the data shows that ***majority*** of orders fall for products with price ***under $300.*** 
 

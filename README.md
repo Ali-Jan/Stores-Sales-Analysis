@@ -6,7 +6,7 @@
 **Total Orders** 9800  
 **Total Customers** 798
 
-![Image](https://github.com/user-attachments/assets/b0457707-1bde-4260-a66e-2bd0417aa5f5)
+![Image](https://github.com/user-attachments/assets/918fb25c-90f1-4e3c-938e-e00d8ad82f0e)
 
 ## Overall Sales Analysis
 --- 
@@ -21,7 +21,7 @@ Products with **< $100** price have the maximum number of orders with **6101** o
 
 ## Time Series Sales Analysis
 
-![Image](https://github.com/user-attachments/assets/5c40863f-b739-4331-adfc-bb0bd0b7439c)
+![Image](https://github.com/user-attachments/assets/d80bb1ec-82bc-4831-bccd-f8c2f772dd78)
 
 **November**, **September**, and **March** stands at top with total sales of **$350 K**, **$300 K**, and **$190 K**
 
@@ -31,7 +31,7 @@ Products with **< $100** price have the maximum number of orders with **6101** o
 
 ## Customer Analysis 
 
-![Image](https://github.com/user-attachments/assets/fb8e9171-f838-48ed-9cba-765755eab313)
+![Image](https://github.com/user-attachments/assets/2fef38ba-79b9-4249-b21f-afdc3b4d8e16)
 
 **Consumer Segment** has the highest percentage of customers i.e. **51%**
 
@@ -43,7 +43,7 @@ Similarly, **Region-wise** customer distribution also has almost similar percent
 
 ## Geographical Sales Analysis
 
-![Image](https://github.com/user-attachments/assets/ffde470f-75bb-4b0e-ba15-09ee5dacdf1d)
+![Image](https://github.com/user-attachments/assets/6d078498-ade3-4150-909a-c0cd5eed5370)
 
 
 **West Region** stands at **top** as per **Sales** as well as **Profit** with sales and profit of **$710 K** and **$355 K** respectively.
